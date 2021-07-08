@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sec/static/css/main.030742e0.chunk.css",
+    "main.js": "/sec/static/js/main.9fb2cf28.chunk.js",
+    "main.js.map": "/sec/static/js/main.9fb2cf28.chunk.js.map",
+    "runtime-main.js": "/sec/static/js/runtime-main.a00d1a10.js",
+    "runtime-main.js.map": "/sec/static/js/runtime-main.a00d1a10.js.map",
+    "static/js/2.eb6312e0.chunk.js": "/sec/static/js/2.eb6312e0.chunk.js",
+    "static/js/2.eb6312e0.chunk.js.map": "/sec/static/js/2.eb6312e0.chunk.js.map",
+    "static/js/3.30d5408a.chunk.js": "/sec/static/js/3.30d5408a.chunk.js",
+    "static/js/3.30d5408a.chunk.js.map": "/sec/static/js/3.30d5408a.chunk.js.map",
+    "index.html": "/sec/index.html",
+    "static/css/main.030742e0.chunk.css.map": "/sec/static/css/main.030742e0.chunk.css.map",
+    "static/js/2.eb6312e0.chunk.js.LICENSE.txt": "/sec/static/js/2.eb6312e0.chunk.js.LICENSE.txt",
+    "static/media/SATYA SAI SUNDAR.f472d52a.pdf": "/sec/static/media/SATYA SAI SUNDAR.f472d52a.pdf",
+    "static/media/Web design.8dbe3047.pdf": "/sec/static/media/Web design.8dbe3047.pdf",
+    "static/media/certificate.307cad90.jpg": "/sec/static/media/certificate.307cad90.jpg",
+    "static/media/code.1deb9b97.png": "/sec/static/media/code.1deb9b97.png",
+    "static/media/git.903833d8.gif": "/sec/static/media/git.903833d8.gif",
+    "static/media/java.98ac8107.pdf": "/sec/static/media/java.98ac8107.pdf",
+    "static/media/logo.d561b8b8.jpg": "/sec/static/media/logo.d561b8b8.jpg",
+    "static/media/mape.f4559c1a.jpg": "/sec/static/media/mape.f4559c1a.jpg",
+    "static/media/profile.1966173a.jpg": "/sec/static/media/profile.1966173a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a00d1a10.js",
+    "static/js/2.eb6312e0.chunk.js",
+    "static/css/main.030742e0.chunk.css",
+    "static/js/main.9fb2cf28.chunk.js"
+  ]
+}
